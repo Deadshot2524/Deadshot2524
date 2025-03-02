@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Deadshot2524
-- 👀 I’m interested in gaming - coding - music 
-- 🌱 I’m currently in highschool
-- 📫 How to reach me https://www.instagram.com/omardarahem/?hl=en
+- 👀 I’m interested in coding - video games   
+- 🌱 I’m currently a university student 
+
 
 <!---
 Deadshot2524/Deadshot2524 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
